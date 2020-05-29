@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppIntentExemple</string>
+    <string name="send_mail">Send Mail</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="call">Call</string>
+    <string name="open_browser">Open Browser</string>
+    <string name="open_maps">Open Maps</string>
+    <string name="take_picture">Take picture</string>
+    <string name="img_description">result of taking picture</string>
+</resources>
